@@ -148,18 +148,20 @@ A software project focused on organizing hospital-related information and manage
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep798512&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" width="49%"/>
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sandeep798512&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" width="49%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep798512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" width="49%"/>
+  <!-- Top Languages Used -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Sandeep798512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" width="49%"/>
 
-<br/><br/>
+  <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=Sandeep798512&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%"/>
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=Sandeep798512&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%"/>
 
 </div>
 
